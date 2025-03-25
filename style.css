@@ -1,0 +1,89 @@
+body{
+  background: whitesmoke;
+  font-family: Courier New;
+}
+.Background{
+  position: absolute;
+}
+.dot-1{
+  background: red;
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  top: 5px;
+}
+.dot-2{
+  background: green;
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  left: 5px;
+  top: 0px;
+}
+.dot-3{
+  background: blue;
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+button{
+  font-size: 15px;
+  font-family: Comic Sans MS;
+  width: 270px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  position: absolute;
+  left: 40px;
+  top: 350px;
+}
+#img-1{
+  opacity: 0.1;
+  border-radius: 50%;
+}
+#img-2{
+  width: 362px;
+  height: 700px;
+  opacity: 0.2;
+  position: absolute;
+  left: -10px;
+  top: -10px;
+}
+#img-10{
+  position: absolute;
+  left: 320px;
+  width: 30px;
+  height: 30px;
+  top: -8px;
+  border-radius: 50%;
+  opacity: 0.6;
+}
+h1{
+  font-size: 12px;
+  font-family: Comic Sans MS;
+  position: absolute;
+  left: 48px;
+  top: 320px;
+  opacity: 3;
+  color: grey;
+}
+h4{
+  font-size: 90px;
+  position: absolute;
+  top: 40px;
+  left: 33px;
+  font-family: Verdana;
+  opacity: 0.8;
+}
+h5{
+  opacity: 0.5;
+  position: absolute;
+  left: 120px;
+  top: 600px;
+  color: grey;
+  font-size: 12px;
+}
